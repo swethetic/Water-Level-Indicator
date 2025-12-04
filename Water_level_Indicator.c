@@ -1,4 +1,4 @@
-8.  #include <stdio.h>
+#include <stdio.h>
 
 int main() {
     float level;
@@ -24,4 +24,5 @@ int main() {
     }
 
     return 0;
+
 }
